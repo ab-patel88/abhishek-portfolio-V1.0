@@ -14,7 +14,6 @@ const TRACK_1 = [
     "/hero-slider/hero-3.jpg",
     "/hero-slider/hero-4.jpg",
     "/hero-slider/hero-5.jpg",
-    "/hero-slider/hero-1.jpg",
 ] as const;
 
 const TRACK_2 = [
@@ -23,7 +22,6 @@ const TRACK_2 = [
     "/hero-slider/hero-4.jpg",
     "/hero-slider/hero-3.jpg",
     "/hero-slider/hero-2.jpg",
-    "/hero-slider/hero-1.jpg",
 ] as const;
 
 const COL_1_IMAGES = [...TRACK_1, ...TRACK_1];
