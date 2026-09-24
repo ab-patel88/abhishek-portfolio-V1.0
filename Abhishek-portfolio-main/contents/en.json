@@ -2,7 +2,7 @@
     "about": {
         "intro": "I'm a *Civil Engineer* and *Commercial & Procurement Specialist* focused on **end-to-end contract and billing management**.",
         "description": "Construction professional with **7+ years of experience** in **procurement**, **billing**, and **contract administration** for residential and commercial projects. I combine a *technical engineering foundation* with hands-on commercial discipline to keep projects running cleanly from paper to payment.",
-        "full": "Hi, I'm **Abhishek Ramjiyani**. My work sits at the intersection of engineering and commercial management \u2014 I started with a technical foundation in **civil engineering**, and over time moved into the commercial side of project delivery, focusing on **procurement**, **contract administration**, and **RA billing**.\n\nI manage the full commercial lifecycle of a project end-to-end from vendor qualification and rate negotiation, through subcontract finalization and contract administration, to accurate and timely **RA (Running Account) Billing** for both **clients and subcontractors.** Having an engineering background means i understand the technical scope behind every line item, which helps me manage commercial decisions with more precision than a purely administrative approach would allow.\n\nI care about **financial control**  \u2013 that's tight and transparent material reconciliation, real-time budget tracking, variation pricing, and making sure billing reflects work accurately and on time. It's not just paperwork, it's giving a project's commercial side the same discipline its technical side demands.\n\nMy goal is to keep strengthening this blend of technical and commercial expertise, taking on more responsibility across procurement strategy, contract structuring, and project financial management as I grow.\n\n**Software & Skills** \u2013 AutoCAD, MS Excel & Office, STAAD Pro (Basic), Planwin.\n\n **Core Strengths** \u2014 Procurement Management, Billing Management, Contract Administration, Commercial Management with strong problem-solving ability, attention to detail, and effective communication across project teams."
+        "full": "Hi, I'm **Abhishek Ramjiyani**. My work sits at the intersection of engineering and commercial management \u2013 I started with a technical foundation in **civil engineering**, and over time moved into the commercial side of project delivery, focusing on **procurement**, **contract administration**, and **RA billing**.\n\nI manage the full commercial lifecycle of a project end-to-end from vendor qualification and rate negotiation, through subcontract finalization and contract administration, to accurate and timely **RA (Running Account) Billing** for both **clients and subcontractors.** Having an engineering background means i understand the technical scope behind every line item, which helps me manage commercial decisions with more precision than a purely administrative approach would allow.\n\nI care about **financial control**  \u2013 that's tight and transparent material reconciliation, real-time budget tracking, variation pricing, and making sure billing reflects work accurately and on time. It's not just paperwork, it's giving a project's commercial side the same discipline its technical side demands.\n\nMy goal is to keep strengthening this blend of technical and commercial expertise, taking on more responsibility across procurement strategy, contract structuring, and project financial management as I grow.\n\n**Software & Skills** \u2013 AutoCAD, MS Excel & Office, STAAD Pro (Basic), Planwin.\n **Core Strengths** \u2013 Procurement Management, Billing Management, Contract Administration, Commercial Management with strong problem-solving ability, attention to detail, and effective communication across project teams."
     },
     "manifesto": [
         "PROCUREMENT MANAGEMENT",
@@ -22,11 +22,10 @@
             "tags": [
                 "Procurement Management",
                 "Commercial Management",
-                "Subcontract Administration",
-                "Client & Sub-Contractor RA Billing",
+                "Contract Administration",
+                "Client & Contractor RA Billing",
                 "Material Reconciliation",
-                "Cost Control",
-                "Variation Pricing"
+                "Cost Control & Variation"
             ]
         },
         {
@@ -35,7 +34,7 @@
             "role": "Assistant Billing Engineer",
             "company": "VISHAL GROUP",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Certified complex subcontractor invoices, cross-verifying physical site measurements against BOQ terms. Ran material reconciliation audits to identify wastage patterns and drive cost recoveries. Negotiated, quantified, and drafted rate analysis reports for non-tendered extra items and project variations. Audited commercial billing cycles for alignment with contract terms, using MS Excel models and AutoCAD verification to accelerate bill clearance.",
+            "description": "Certified complex subcontractor invoices, cross-verifying physical site measurements against BOQ terms. \nRan material reconciliation audits to identify wastage patterns and drive cost recoveries. \nNegotiated, quantified, and drafted rate analysis reports for non-tendered extra items and project variations. \nAudited commercial billing cycles for alignment with contract terms, using MS Excel models and AutoCAD verification to accelerate bill clearance.",
             "tags": [
                 "Contractor Billing",
                 "BOQ Verification",
@@ -47,14 +46,15 @@
             "id": "3",
             "period": "Jul 2019 \u2013 Dec 2019",
             "role": "Assistant Billing Engineer",
-            "company": "RRC VENTURES PVT. LTD.",
+            "company": "RRC VENTURES PRIVATE LIMITED.",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Drafted routine subcontractor bills and compiled daily site measurement logs with site engineers. Assisted material reconciliation by matching theoretical consumption against physical gate entries. Logged on-site variation entries and extra item requests for senior review. Maintained measurement books (MB) and performed quantity take-offs from structural drawings.",
+            "description": "Drafted routine subcontractor bills and compiled daily site measurement logs with site engineers. \nAssisted material reconciliation by matching theoretical consumption against physical gate entries. \nLogged on-site variation entries and extra item requests for senior review. \nMaintained measurement books (MB) and performed quantity take-offs from structural drawings.",
             "tags": [
                 "Contractor Billing",
                 "Material Reconciliation",
                 "Quantity Take-off",
-                "Measurement Books"
+                "BBS Preparation",
+                "Quantity Verification"
             ]
         },
         {
@@ -63,7 +63,7 @@
             "role": "Design Engineer Trainee",
             "company": "SURA & ASSOCIATES",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Prepared AutoCAD drawings and assisted in structural design coordination between consulting teams and field execution units. Conducted routine site inspections to verify on-ground structural work complied with approved technical drawings.",
+            "description": "Prepared AutoCAD drawings and assisted in structural design coordination between consulting teams and field execution units. \nConducted routine site inspections to verify on-ground structural work complied with approved technical drawings.",
             "tags": [
                 "AutoCAD",
                 "Structural Drawing Verification",
@@ -76,7 +76,7 @@
             "role": "Civil Site Engineer",
             "company": "NILKANTH VIJAY CONSTRUCTION",
             "location": "Gujarat, India",
-            "description": "Supervised daily on-site civil construction activities to ensure adherence to design specifications, timelines, and safety standards. Supported project administration through preliminary quantity estimations, daily progress reporting, and basic documentation tracking.",
+            "description": "Supervised daily on-site civil construction activities to ensure adherence to design specifications, timelines, and safety standards. \nSupported project administration through preliminary quantity estimations, daily progress reporting, and basic documentation tracking.",
             "tags": [
                 "Site Execution & Supervision",
                 "Quantity Estimation",
