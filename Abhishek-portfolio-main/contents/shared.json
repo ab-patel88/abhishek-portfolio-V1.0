@@ -1,0 +1,19 @@
+{
+    "contact": {
+        "location": "Mumbai, India",
+        "email": "abhiramjiyani@zohomail.in",
+        "phone": ""
+    },
+    "social": [
+        {
+            "label": "Linkedin",
+            "href": "https://www.linkedin.com/in/abhishek-ramjiyani-750355166"
+        }
+    ],
+    "stack": {
+        "frontend": [],
+        "backend": [],
+        "database": [],
+        "tools": []
+    }
+}

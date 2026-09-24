@@ -1,0 +1,141 @@
+{
+    "about": {
+        "intro": "I'm a *Civil Engineer* and *Commercial & Procurement Specialist* focused on **end-to-end contract and billing management**.",
+        "description": "Construction professional with **7+ years of experience** in **procurement**, **billing**, and **contract-related coordination** for residential and commercial projects. I combine a *technical engineering foundation* with hands-on commercial discipline to keep projects running cleanly from paper to payment.",
+        "full": "Hi, I'm **Abhishek Ramjiyani**. My work sits at the intersection of engineering and commercial management \u2014 I started with a technical foundation in **civil engineering**, and over time moved into the commercial side of project delivery, focusing on **procurement**, **contract administration**, and **RA billing**.\n\nI manage the full commercial lifecycle of a project **end-to-end** \u2014 from vendor qualification and rate negotiation, through subcontract finalization and contract administration, to accurate and timely RA (Running Account) billing for both clients and subcontractors. Having an engineering background means I understand the technical scope behind every line item, which helps me manage commercial decisions with more precision than a purely administrative approach would allow.\n\nI care about **financial control** that's tight and transparent \u2014 material reconciliation, real-time budget tracking, variation pricing, and making sure billing reflects work accurately and on time. It's not just paperwork; it's giving a project's commercial side the same discipline its technical side demands.\n\nMy goal is to keep strengthening this blend of technical and commercial expertise, taking on more responsibility across procurement strategy, contract structuring, and project financial management as I grow.\n\n**Software & Skills** \u2014 AutoCAD, MS Excel & Office, STAAD Pro (Basic), Planwin. **Core Strengths** \u2014 Procurement, Contract & Billing Administration, Commercial Management, with strong problem-solving ability, attention to detail, and effective communication across project teams."
+    },
+    "manifesto": [
+        "PROCUREMENT MANAGEMENT",
+        "RA BILLING",
+        "CONTRACT ADMINISTRATION",
+        "VENDOR MANAGEMENT",
+        "MATERIAL RECONCILIATION",
+        "END-TO-END OWNERSHIP"
+    ],
+    "experience": [
+        {
+            "id": "1",
+            "period": "Apr 2021 \u2013 Present",
+            "role": "Manager \u2013 Commercial (Billing & Procurement)",
+            "company": "VISHAL GROUP",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Directing the end-to-end procurement lifecycle \u2014 vendor qualification, rate negotiation, and subcontract finalization \u2014 to protect project margins. Overseeing the full RA billing lifecycle for clients and subcontractors, ensuring flawless verification and timely submission. Enforcing financial control through material reconciliation and real-time budget tracking against baseline estimates. Handling contract administration, variation pricing, and cash flow management across receivables, payables, and fund allocation. Serving as the primary commercial point of contact for vendors and subcontractors, resolving billing disputes and contractual bottlenecks, while leading and mentoring the commercial team.",
+            "tags": [
+                "Procurement Management",
+                "Commercial Management",
+                "Subcontract Administration",
+                "Client & Sub-Contractor RA Billing",
+                "Material Reconciliation",
+                "Cost Control",
+                "Variation Pricing",
+                "Team Leadership"
+            ]
+        },
+        {
+            "id": "2",
+            "period": "Dec 2019 \u2013 Mar 2021",
+            "role": "Assistant Billing Engineer",
+            "company": "VISHAL GROUP",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Certified complex subcontractor invoices, cross-verifying physical site measurements against BOQ terms. Ran material reconciliation audits to identify wastage patterns and drive cost recoveries. Negotiated, quantified, and drafted rate analysis reports for non-tendered extra items and project variations. Audited commercial billing cycles for alignment with contract terms, using MS Excel models and AutoCAD verification to accelerate bill clearance.",
+            "tags": [
+                "Contractor Billing",
+                "BOQ Verification",
+                "Material Reconciliation",
+                "Rate Analysis",
+                "AutoCAD Verification"
+            ]
+        },
+        {
+            "id": "3",
+            "period": "Jul 2019 \u2013 Dec 2019",
+            "role": "Assistant Billing Engineer",
+            "company": "RRC VENTURES PVT. LTD.",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Drafted routine subcontractor bills and compiled daily site measurement logs with site engineers. Assisted material reconciliation by matching theoretical consumption against physical gate entries. Logged on-site variation entries and extra item requests for senior review. Maintained measurement books (MB) and performed quantity take-offs from structural drawings.",
+            "tags": [
+                "Contractor Billing",
+                "Material Reconciliation",
+                "Quantity Take-off",
+                "Measurement Books"
+            ]
+        },
+        {
+            "id": "4",
+            "period": "Jul 2018 \u2013 Jun 2019",
+            "role": "Design Engineer Trainee",
+            "company": "SURA & ASSOCIATES",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Prepared AutoCAD drawings and assisted in structural design coordination between consulting teams and field execution units. Conducted routine site inspections to verify on-ground structural work complied with approved technical drawings.",
+            "tags": [
+                "AutoCAD",
+                "Structural Drawing Verification",
+                "Design Coordination"
+            ]
+        },
+        {
+            "id": "5",
+            "period": "Feb 2017 \u2013 Apr 2018",
+            "role": "Civil Site Engineer",
+            "company": "NILKANTH VIJAY CONSTRUCTION",
+            "location": "Gujarat, India",
+            "description": "Supervised daily on-site civil construction activities to ensure adherence to design specifications, timelines, and safety standards. Supported project administration through preliminary quantity estimations, daily progress reporting, and basic documentation tracking.",
+            "tags": [
+                "Site Execution & Supervision",
+                "Quantity Estimation",
+                "Site Reporting"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Shree Sai Ratna CHS",
+            "period": "2026 \u2013 Ongoing",
+            "valueCr": 47.00,
+            "contractType": "RCC Labour Work Contract"
+        },
+        {
+            "id": "2",
+            "title": "Ashar Merac (Phase 3) \u2013 Tower E1",
+            "period": "2025 \u2013 Ongoing",
+            "valueCr": 55.00,
+            "contractType": "Civil Work with Material"
+        },
+        {
+            "id": "3",
+            "title": "Ashar Merac (Phase 1) \u2013 Tower D1, D2 & D3",
+            "period": "2024 \u2013 Ongoing",
+            "valueCr": 171.00,
+            "contractType": "Civil Work with Material"
+        },
+        {
+            "id": "4",
+            "title": "The Gateway \u2013 Sale & Tenant Tower",
+            "period": "2023 \u2013 2026",
+            "valueCr": 32.00,
+            "contractType": "RCC Labour Work Contract"
+        },
+        {
+            "id": "5",
+            "title": "Ashar Pulse \u2013 Sale & Tenant Tower",
+            "period": "2023 \u2013 2026",
+            "valueCr": 181.00,
+            "contractType": "Civil Work with Material"
+        },
+        {
+            "id": "6",
+            "title": "DADCH Hospital",
+            "period": "2024 \u2013 2025",
+            "valueCr": 17.50,
+            "contractType": "Civil Work with Material"
+        },
+        {
+            "id": "7",
+            "title": "Ashar Axis \u2013 Sale & Parking Tower",
+            "period": "2022 \u2013 2024",
+            "valueCr": 30.00,
+            "contractType": "Civil Work with Material"
+        }
+    ]
+}
