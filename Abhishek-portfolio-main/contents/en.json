@@ -19,7 +19,7 @@
             "role": "Manager \u2013 Commercial (Billing & Procurement)",
             "company": "VISHAL GROUP",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Directing the end-to-end procurement lifecycle \u2014 vendor qualification, rate negotiation, and subcontract finalization \u2014 to protect project margins. Overseeing the full RA billing lifecycle for clients and subcontractors, ensuring flawless verification and timely submission. Enforcing financial control through material reconciliation and real-time budget tracking against baseline estimates. Handling contract administration, variation pricing, and cash flow management across receivables, payables, and fund allocation. Serving as the primary commercial point of contact for vendors and subcontractors, resolving billing disputes and contractual bottlenecks, while leading and mentoring the commercial team.",
+            "description": "Directing the end-to-end procurement lifecycle, vendor qualification, rate negotiation, and subcontract finalization to protect project margins.<br/> Overseeing the full RA billing lifecycle for clients and subcontractors, ensuring flawless verification and timely submission.<br/> Enforcing financial control through material reconciliation and real-time budget tracking against baseline estimates. <br/>Handling contract administration, variation pricing, and cash flow management across receivables, payables, and fund allocation.<br/> Serving as the primary commercial point of contact for vendors and subcontractors, resolving billing disputes and contractual bottlenecks, while leading and mentoring the commercial team.",
             "tags": [
                 "Procurement Management",
                 "Commercial Management",
@@ -27,8 +27,7 @@
                 "Client & Sub-Contractor RA Billing",
                 "Material Reconciliation",
                 "Cost Control",
-                "Variation Pricing",
-                "Team Leadership"
+                "Variation Pricing"
             ]
         },
         {
@@ -37,13 +36,12 @@
             "role": "Assistant Billing Engineer",
             "company": "VISHAL GROUP",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Certified complex subcontractor invoices, cross-verifying physical site measurements against BOQ terms. Ran material reconciliation audits to identify wastage patterns and drive cost recoveries. Negotiated, quantified, and drafted rate analysis reports for non-tendered extra items and project variations. Audited commercial billing cycles for alignment with contract terms, using MS Excel models and AutoCAD verification to accelerate bill clearance.",
+            "description": "Certified complex subcontractor invoices, cross-verifying physical site measurements against BOQ terms.<br/> Ran material reconciliation audits to identify wastage patterns and drive cost recoveries.<br/> Negotiated, quantified, and drafted rate analysis reports for non-tendered extra items and project variations.<br/> Audited commercial billing cycles for alignment with contract terms, using MS Excel models and AutoCAD verification to accelerate bill clearance.",
             "tags": [
                 "Contractor Billing",
                 "BOQ Verification",
                 "Material Reconciliation",
-                "Rate Analysis",
-                "AutoCAD Verification"
+                "Rate Analysis"
             ]
         },
         {
@@ -52,7 +50,7 @@
             "role": "Assistant Billing Engineer",
             "company": "RRC VENTURES PVT. LTD.",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Drafted routine subcontractor bills and compiled daily site measurement logs with site engineers. Assisted material reconciliation by matching theoretical consumption against physical gate entries. Logged on-site variation entries and extra item requests for senior review. Maintained measurement books (MB) and performed quantity take-offs from structural drawings.",
+            "description": "Drafted routine subcontractor bills and compiled daily site measurement logs with site engineers.<br/> Assisted material reconciliation by matching theoretical consumption against physical gate entries.<br/> Logged on-site variation entries and extra item requests for senior review.<br/> Maintained measurement books (MB) and performed quantity take-offs from structural drawings.",
             "tags": [
                 "Contractor Billing",
                 "Material Reconciliation",
@@ -66,7 +64,7 @@
             "role": "Design Engineer Trainee",
             "company": "SURA & ASSOCIATES",
             "location": "Mumbai, Maharashtra, India",
-            "description": "Prepared AutoCAD drawings and assisted in structural design coordination between consulting teams and field execution units. Conducted routine site inspections to verify on-ground structural work complied with approved technical drawings.",
+            "description": "Prepared AutoCAD drawings and assisted in structural design coordination between consulting teams and field execution units.<br/> Conducted routine site inspections to verify on-ground structural work complied with approved technical drawings.",
             "tags": [
                 "AutoCAD",
                 "Structural Drawing Verification",
@@ -79,7 +77,7 @@
             "role": "Civil Site Engineer",
             "company": "NILKANTH VIJAY CONSTRUCTION",
             "location": "Gujarat, India",
-            "description": "Supervised daily on-site civil construction activities to ensure adherence to design specifications, timelines, and safety standards. Supported project administration through preliminary quantity estimations, daily progress reporting, and basic documentation tracking.",
+            "description": "Supervised daily on-site civil construction activities to ensure adherence to design specifications, timelines, and safety standards.<br/> Supported project administration through preliminary quantity estimations, daily progress reporting, and basic documentation tracking.",
             "tags": [
                 "Site Execution & Supervision",
                 "Quantity Estimation",
