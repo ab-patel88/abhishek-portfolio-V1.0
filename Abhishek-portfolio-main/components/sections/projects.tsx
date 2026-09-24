@@ -52,14 +52,14 @@ export default function Projects() {
                     <>
                         <BlurReveal>
                             <div className="grid grid-cols-2 gap-4 sm:gap-6 border-t border-b border-border/50 py-8 lg:py-10 mb-12 lg:mb-16 max-w-xl">
-                                <div className="flex flex-col gap-1">
+                                {/* <div className="flex flex-col gap-1">
                                     <span className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tighter text-foreground">
                                         {formatCr(totals)}
                                     </span>
                                     <span className="text-xs sm:text-sm font-mono tracking-widest uppercase text-muted-foreground">
                                         Cumulative Project Value
                                     </span>
-                                </div>
+                                </div> */}
                                 <div className="flex flex-col gap-1">
                                     <span className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tighter text-foreground">
                                         {projects.length}
