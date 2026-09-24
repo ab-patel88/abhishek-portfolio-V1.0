@@ -72,7 +72,7 @@ export default function Experience() {
                                             </h3>
                                             <span className="text-base md:text-lg text-muted-foreground">
                                                 {item.company}
-                                                {item.location ? ` — ${item.location}` : ""}
+                                                {item.location ? ` - ${item.location}` : ""}
                                             </span>
                                         </div>
 
