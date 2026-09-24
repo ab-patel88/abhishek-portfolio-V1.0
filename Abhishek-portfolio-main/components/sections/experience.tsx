@@ -76,7 +76,7 @@ export default function Experience() {
                                             </span>
                                         </div>
 
-                                        <p className="text-base md:text-lg text-foreground/70 leading-relaxed max-w-2xl">
+                                        <p className="text-base md:text-lg text-foreground/70 leading-relaxed max-w-2xl whitespace-pre-line">
                                             {item.description}
                                         </p>
 
