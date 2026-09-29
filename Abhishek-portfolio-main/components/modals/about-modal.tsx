@@ -35,7 +35,8 @@ export function AboutModal({ open, onOpenChange }: AboutModalProps) {
 
                 <div className="overflow-y-auto px-8 pb-8 pt-2 flex-1" data-lenis-prevent="true">
                     <div className="flex flex-col gap-6">
-                        <div className="text-sm text-foreground/80 leading-relaxed font-light">
+                        {/* Added whitespace-pre-line right here */}
+                        <div className="text-sm text-foreground/80 leading-relaxed font-light whitespace-pre-line">
                             {content.about.full}
                         </div>
                     </div>
